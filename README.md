@@ -25,7 +25,7 @@ Each row represents a customer, each column contains that customer’s attribute
 
 Submit the commented code (A python notebook would be ideal) including explanations on choices made.
 
-There is no right or wrong, the submition will be evaluated more on the general understanding of machine learning along the CRISP-MD process, than on the prediction accuracy (though a good ML will result in a adequate prediction accuracy)
+There is no right or wrong, the submission will be evaluated more on the general understanding of machine learning along the CRISP-MD process, than on the prediction accuracy (though a good ML will result in a adequate prediction accuracy)
 The main focus of the evaluation will be around the following points:
 
 * Quality of the resulting algorithm (i.e. feature engineering and classification model): 
@@ -34,9 +34,9 @@ An algorithm that demonstrates clear understanding of the the approach taken and
 
 * Model deployment, accessibility and scalability:
 
-Online accessibility and scalability of the model using a tool of your choice (e.g. flask, cloud computing platforms, etc)
+Online accessibility and scalability of the model using a tool of your choice (e.g. flask, docker, cloud computing platforms, etc)
 
 **Note:**
 
-You can either focus on both, or on one of the above points depending on what your feel most confortable with.
+You can either focus on both, or on one of the above points depending on what you feel most confortable with.
 In case you are more confortable with the deployment part, a very simple classification algorithm will suffice. 
