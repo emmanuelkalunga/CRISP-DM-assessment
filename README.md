@@ -26,7 +26,7 @@ Part of the data is withheld for evaluation purposes.
 
 Submit the commented code (A python notebook would be ideal) including explanations on choices made. Also submit all necessary codes and files used for deplyement.  
 
-There is no right or wrong, the submition will be evaluated more on the general understanding of machine learning along the CRISP-MD process, than on the prediction accuracy (though a good ML will result in a adequate prediction accuracy)
+There is no right or wrong, the submission will be evaluated more on the general understanding of machine learning along the CRISP-MD process, than on the prediction accuracy (though a good ML will result in a adequate prediction accuracy)
 The main focus of the evaluation will be around the following points:
 
 * Quality of the resulting algorithm (i.e. feature engineering and classification model): 
